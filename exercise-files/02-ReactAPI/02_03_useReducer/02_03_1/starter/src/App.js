@@ -50,6 +50,7 @@ function Form({ generate, guess, onChange, values }) {
           />
         </div>
         
+        
         <div className="col-4">
           <button
             type="button"
