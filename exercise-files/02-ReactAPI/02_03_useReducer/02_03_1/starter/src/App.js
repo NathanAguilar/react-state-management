@@ -49,6 +49,7 @@ function Form({ generate, guess, onChange, values }) {
             onChange={(e) => onChange(e.target.value)}
           />
         </div>
+        
         <div className="col-4">
           <button
             type="button"
