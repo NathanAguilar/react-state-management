@@ -69,7 +69,6 @@ function App() {
                   style={{ width: "100%" }}
                   onClick={guessTheNumber}
                 >
-                  
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="32"
